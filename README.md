@@ -112,9 +112,9 @@ I write about AI products, product operations, design systems and what actually 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=xiaopu-ai&hide_border=true&background=0d1117&ring=20C997&fire=63FFCE&currStreakLabel=20C997&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=xiaopu-ai&hide_border=true&background=ffffff&ring=159A75&fire=20C997&currStreakLabel=159A75&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
-  <img src="https://streak-stats.demolab.com?user=xiaopu-ai&hide_border=true&background=0d1117&ring=20C997&fire=63FFCE&currStreakLabel=20C997&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="GitHub contribution streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xiaopu-ai&theme=github_dark&utcOffset=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xiaopu-ai&theme=github&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xiaopu-ai&theme=github_dark&utcOffset=8" alt="Xiaopu productive commit time" />
 </picture>
 
 </div>
