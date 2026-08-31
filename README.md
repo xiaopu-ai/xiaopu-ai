@@ -23,8 +23,8 @@ I turn emerging AI capabilities into products, open-source systems and practical
 
 | Product | What it does | Signal |
 | --- | --- | --- |
-| [**Lollipop**](https://lollipop.plus/) | AI interview product covering job understanding, résumé optimization, simulation and structured review. | ![](https://img.shields.io/badge/2%2C000%2B-users-FF6B85?style=flat-square) |
-| [**TO-DO Panel**](https://xiaopu-ai.github.io/TO-DO-Panel/) | Turns the Mac notch into a local-first workspace for tasks, notes, links, recording and AI reminders. | ![](https://img.shields.io/github/stars/xiaopu-ai/TO-DO-Panel?style=flat-square&logo=github&label=&color=20C997) |
+| [**Lollipop**](https://lollipop.plus/) | AI interview product covering job understanding, résumé optimization, simulation and structured review. | ![](https://img.shields.io/badge/7k%2B-users-FF6B85?style=flat-square) |
+| [**TO-DO Panel**](https://xiaopu-ai.github.io/TO-DO-Panel/) | Turns the Mac notch into a local-first workspace for tasks, notes, links, recording and AI reminders. | ![](https://img.shields.io/badge/2k%2B-users-20C997?style=flat-square) |
 
 </div>
 
