@@ -109,25 +109,9 @@ I write about AI products, product operations, design systems and what actually 
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xiaopu-ai&title_color=20C997&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" height="178" alt="Top languages" />
 </picture>
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xiaopu-ai&theme=github_dark&utcOffset=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xiaopu-ai&theme=github&utcOffset=8" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xiaopu-ai&theme=github_dark&utcOffset=8" alt="Xiaopu productive commit time" />
-</picture>
-
 </div>
 
-## 06 / Contribution loop
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiaopu-ai&theme=github_dark" width="100%" alt="Xiaopu GitHub profile summary" />
-
-</div>
-
-## 07 / Full interactive profile
+## 06 / Full interactive profile
 
 <a href="https://xiaopu-ai.github.io/">
   <img src="./profile-preview.png" width="100%" alt="Open Xiaopu interactive profile" />
